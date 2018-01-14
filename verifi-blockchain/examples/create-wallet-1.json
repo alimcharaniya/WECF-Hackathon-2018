@@ -1,0 +1,14 @@
+{
+    "body": {
+        "doctor": "439195a21850bc74c4bd2845ff6ea6288e5f25047e5a9a0b4f25948459986c77",
+        "pharmacy": "ab668289b138149c0b20dc747ffaeb361a875c6e92ff644db3a1a0fad8fb839d",
+        "drug": "Motrin",
+        "pub_key": "c95a74f16eb4780573221d568c602ad82ba381dc4668212e6b47904a8ec5ea9e"
+    },
+    "network_id": 0,
+    "protocol_version": 0,
+    "service_id": 1,
+    "message_id": 3,
+    "signature": "d50b9eb7cda20f26d1d117e6c6661a7a95f5acc24f9ae8e774ad88704492dcf6f12da1bd1b292c0bbb76f857cfe56ca320227455f9f39702af1d1d9e705f8006"
+}
+
